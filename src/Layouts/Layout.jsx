@@ -1,5 +1,6 @@
 import Footer from '../components/Footer';
 import Pizzalogo from '../assets/Images/pizza1.png';
+import Logout from '../pages/Auth/Logout';
 
 // eslint-disable-next-line react/prop-types
 function Layout({ children }) {
@@ -33,6 +34,7 @@ function Layout({ children }) {
 
                     </ul>
                 </div>
+                <Logout/>
 
             </nav>
 
