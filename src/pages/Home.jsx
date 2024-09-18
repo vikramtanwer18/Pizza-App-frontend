@@ -1,8 +1,8 @@
-import IconArrowRight from "../Components/Icons/ArrowRight";
+import IconArrowRight from "../components/Icons/ArrowRight";
 
 import PizzaImage from "../assets/Images/pizza2.png";
 import CookingImage from "../assets/Images/cooking1.png";
-import IconPatchCheck from "../Components/Icons/IconPatchCheck";
+import IconPatchCheck from "../components/Icons/IconPatchCheck";
 import OrderFood from "../assets/Images/orderFood.png";
 import Pickup from "../assets/Images/pickup.png";
 import Enjoy from "../assets/Images/enjoy.png";
